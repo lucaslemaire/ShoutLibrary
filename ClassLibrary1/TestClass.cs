@@ -11,7 +11,7 @@ namespace ClassLibrary1
         [TestMethod]
         public void TestTrueEqualTrue()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
     }
 }
