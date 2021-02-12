@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ClassLibrary1
+namespace Test.Uppercase
 {
     [TestClass]
-    class UppercaseTest
+    public class TestUppercase
     {
-        [TestMethod]
         public void TestTrueEqualTrue()
         {
             Assert.IsTrue(false);
