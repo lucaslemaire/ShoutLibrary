@@ -8,7 +8,7 @@ namespace Test.Uppercase
         [TestMethod]
         public void TestTrueEqualTrue()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
     }
 }

@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Florian Bouchez</Authors>
+    <Company>EPSI</Company>
   </PropertyGroup>
 
   <ItemGroup>
